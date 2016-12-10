@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\cows\documents\visual studio 2015\projects\turningmachine\turningmachine\main.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\cows\documents\visual studio 2015\projects\turningmachine\turningmachine\main.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  TurningMachine.vcxproj -> C:\Users\Cows\Documents\Visual Studio 2015\Projects\TurningMachine\Debug\TurningMachine.exe
+  TurningMachine.vcxproj -> C:\Users\Cows\Documents\Visual Studio 2015\Projects\TurningMachine\Debug\TurningMachine.pdb (Partial PDB)

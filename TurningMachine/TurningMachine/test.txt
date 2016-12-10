@@ -1,0 +1,7 @@
+S0 1 S1 B R
+S1 1 S2 B R
+S2 1 S3 B R
+S3 1 S4 1 R
+S1 B S4 1 R
+S2 B S4 1 R
+S3 B S4 1 R
